@@ -1,5 +1,5 @@
 This React JS project is an expense tracker which makes note of all the incomes and expenses.
-In this project, let's build a **Money Manager** app by applying the concepts we have learned till now.
+In this project, let's build a **Money Manager** app.
 
 
 
